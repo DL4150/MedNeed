@@ -1,6 +1,11 @@
 <h1>Heading</h1>
 <font>MedNeed</font>
 
+**Note:**
+**MedNeed is divided into two parts:**
+**The Hospital side (can be seen in the hospital-side branch)**
+**The Health Worker side (can be seen in the healthworker-side branch**
+
 ![teammembers](https://user-images.githubusercontent.com/115637102/228329776-c1278a57-403b-4353-bee3-ce32b0794c5c.jpeg)
 
 
@@ -19,13 +24,8 @@ Sathyabama Institute of Science and Technology Chapter of GDSC
 United Nations Sustainable Development Goals: 
   										    Good Health
 										    Reduced Inequality</p>
-<p>
-	
-Note:
-	
-	MedNeed is divided into two parts:
-The Hospital side (can be seen in the hospital-side branch)
-The Health Worker side (can be seen in the healthworker-side branch)</p>
+
+)
 <p>
 	Proposed Solution
 
