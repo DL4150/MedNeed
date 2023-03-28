@@ -33,9 +33,9 @@ United Nations Sustainable Development Goals:
   										    Good Health
 										    Reduced Inequality</p>
 
-)
-<p>
-	**Proposed Solution**
+
+
+**Proposed Solution**
 
 
 
@@ -47,7 +47,7 @@ Ph no, name, specialisation and role(can be seen in the healthworker-side branc
 These details are posted to a website (can be seen in the hospital-side branch), where hospitals can search for a doctor/Nurse during emergencies. 
 The hospitals contact the doctors/nurses personally by email or phone.
 We have used flutter for app and web development, and firebase as our Database.
-</p>
+
 <p>
 	
 	
