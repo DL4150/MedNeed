@@ -1,0 +1,45 @@
+class Private {
+  final Map<String, List<String>> list = {
+    'Doctor': [
+      'NA',
+      'Immunologists',
+      'Anesthesiologists',
+      'Cardiologists',
+      'Colon and Recta',
+      'Critical Care',
+      'Dermatologists',
+      'Endocrinologists',
+      'Family Physicians',
+      'Gastroenterologists',
+      'Geriatric Medicine',
+      'Orthopedics',
+      'Internal Medicine',
+      'Obstetrics and Gynecology',
+      'Pediatrics',
+      'Radiology',
+      'General Surgery',
+      'Ophthalmology',
+      'ENT',
+      'other'
+    ],
+    'Nurse': [
+      'NA',
+      'Faith Community Nurse',
+      'Rural Nurse',
+      'School Nurse',
+      'Family Nurse Practitioner',
+      'Nurse Case Manager',
+      'Community Health Nurse',
+      'Public Health Nurse',
+      'Forensic Nurse',
+      'Legal Nurse Consultant',
+      'Infection Control Nurse',
+      'Advanced Practice Registered Nurse',
+      'Adult Nurse',
+      'Charge Nurse',
+      'Clinical Nurse Leader',
+      'Nurse Administrator'
+    ],
+    'NA': ['NA'],
+  };
+}
