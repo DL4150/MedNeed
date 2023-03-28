@@ -6,9 +6,9 @@ This is the appearance of the hospital portal login which serves as an authentic
 
 Only after this login can the hospital access the information about available doctors/nurses in the location.
 
-username: gdsc
+**username**: gdsc
 
-password: great
+**password**: great
 </p>
 <p>
 
