@@ -55,6 +55,16 @@ Existing Systems
 Since most existing apps we know are direct patient and online doctor consultations.
 This app can offer a real-time platform that connects medical professionals with healthcare institutions, allowing hospitals and clinics to quickly find qualified doctors and other medical professionals to fill critical staffing gaps. This feature can help reduce patient wait times, improve the quality of care provided, and increase patient satisfaction.
 Ability to offer flexible work arrangements for medical professionals, such as short-term or part-time contracts, remote work options, or flexible scheduling. These features can be particularly attractive to medical professionals looking for more control over their work schedules or seeking opportunities to work in new and challenging environments.
+	
+Architecture
+	
+	
+	![flowdiagram](https://user-images.githubusercontent.com/115637102/228330061-b1e4ca43-d167-427e-82b6-c4e1d8ac6e91.jpeg)
+
+	
+	
+	
+	
 
  What Tech stack we have used:
 	
