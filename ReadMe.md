@@ -1,5 +1,5 @@
 <h1>heading</h1>
-<font>**MedNeed**</font>
+<font size=4>**MedNeed**</font>
 <img src="C:\Users\Alby Saju\OneDrive\Desktop/to/teammembers.jpg">
 <p>Team members:
  	Daniel Lawrence 
