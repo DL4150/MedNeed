@@ -1,6 +1,6 @@
 <h1>Heading</h1>
 <font>MedNeed</font>
-<img src="C:\Users\Alby Saju\OneDrive\Desktop\to\teammembers.jpg">
+<img src="C:\Users\Alby Saju\Desktop\to\teammembers.jpg">
 <p>Team members:
 	
  	Daniel Lawrence 
