@@ -23,6 +23,8 @@ it also shows the distance of the healthcare worker from the hospital.
 
 
 Firebase server
+
+
 The data shared by the health care worker is saved in the google cloud firestore in the collections called 'users’.
 The fields stored by the cloud firestore are :
                                                     Name  as name   
