@@ -12,3 +12,7 @@ Chennai, INDIA
 United Nations Sustainable Development Goals: 
   										    Good Health
 										    Reduced Inequality</p>
+<p>
+	Note: MedNeed is divided into two parts:
+The Hospital side (can be seen in the hospital-side branch)
+The Health Worker side (can be seen in the healthworker-side branch)</p>										    
