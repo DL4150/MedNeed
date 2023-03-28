@@ -2,6 +2,7 @@
 <font>MedNeed</font>
 <img src="C:\Users\Alby Saju\OneDrive\Desktop/to/teammembers.jpg">
 <p>Team members:
+	
  	Daniel Lawrence 
 	
 	Alby V Saju
@@ -18,7 +19,7 @@ United Nations Sustainable Development Goals:
 	Note: MedNeed is divided into two parts:
 The Hospital side (can be seen in the hospital-side branch)
 The Health Worker side (can be seen in the healthworker-side branch)</p>
-<p>Proposed Solution 
+<p>Proposed Solution
 
 
 We have created an app to help when there is such a shortage of staff.
