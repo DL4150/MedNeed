@@ -10,7 +10,7 @@
 	Abhigyan Arth
 
 Sathyabama Institute of Science and Technology Chapter of GDSC
-Chennai, INDIA
+   Chennai, INDIA
 
 United Nations Sustainable Development Goals: 
   										    Good Health
@@ -31,3 +31,8 @@ These details are posted to a website (can be seen in the hospital-side branch),
 The hospitals contact the doctors/nurses personally by email or phone.
 We have used flutter for app and web development, and firebase as our Database.
 </p>
+<p>
+Why the problem statement?
+
+India is a country with the highest population. The healthcare system for such a population needs to be at its best. Healthcare is essential to society; there is nothing without good health and institutions to foster it. The health and welfare sector cannot keep up with the growing population and demand, leading to a high populace-filled hospital with short-staffed workers and helpers. On the other side of the spectrum is the hospitals kitted to a high populace with employees and helpers but not enough patients to satisfy it; this imbalance causes many problems and chaos.
+Hence this problem needs to be solved as soon as possible</p>
