@@ -1,6 +1,6 @@
 <h1>heading</h1>
 <p>MedNeed</p>
-<img src="C:\Users\Alby Saju\OneDrive\Desktop">
+<img src="C:\Users\Alby Saju\OneDrive\Desktop/to/teammembers.jpg">
 <p>Team members:
  	Daniel Lawrence 
 	Alby V Saju
