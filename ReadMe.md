@@ -1,6 +1,8 @@
 <h1>Heading</h1>
 <font>MedNeed</font>
-![teammembers](https://user-images.githubusercontent.com/115637102/228329692-30ffdccf-47c2-494b-9354-a361775af35c.jpeg)
+
+![teammembers](https://user-images.githubusercontent.com/115637102/228329776-c1278a57-403b-4353-bee3-ce32b0794c5c.jpeg)
+
 
 
 <p>Team members:
