@@ -58,8 +58,7 @@ Ability to offer flexible work arrangements for medical professionals, such as s
 	
 Architecture
 	
-	
-	![flowdiagram](https://user-images.githubusercontent.com/115637102/228330061-b1e4ca43-d167-427e-82b6-c4e1d8ac6e91.jpeg)
+	![flowdiagram](https://user-images.githubusercontent.com/115637102/228330165-78ebbb3d-efd9-4c49-a00f-ba7e5194ac9e.jpeg)
 
 	
 	
