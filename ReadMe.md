@@ -1,6 +1,8 @@
 <h1>Heading</h1>
 <font>MedNeed</font>
-<img src="C:\Users\Alby Saju\Desktop\to\teammembers.jpg">
+![teammembers](https://user-images.githubusercontent.com/115637102/228329692-30ffdccf-47c2-494b-9354-a361775af35c.jpeg)
+
+
 <p>Team members:
 	
  	Daniel Lawrence 
