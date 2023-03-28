@@ -27,7 +27,8 @@ The Health Worker side (can be seen in the healthworker-side branch)</p>
 
 
 
-	We have created an app to help when there is such a shortage of staff.
+
+We have created an app to help when there is such a shortage of staff.
 In this app, the doctors and nurses can log in and enter their details i.e
 Ph no, name, specialisation and role(can be seen in the healthworker-side branch).
 
