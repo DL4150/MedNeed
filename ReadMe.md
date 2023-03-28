@@ -1,6 +1,6 @@
-<h1>heading</h1>
+<h1>Heading</h1>
 <font>MedNeed</font>
-<img src="C:\Users\Alby Saju\OneDrive\Desktop/to/teammembers.jpg">
+<img src="C:\Users\Alby Saju\OneDrive\Desktop\to\teammembers.jpg">
 <p>Team members:
 	
  	Daniel Lawrence 
@@ -35,4 +35,15 @@ We have used flutter for app and web development, and firebase as our Database.
 Why the problem statement?
 
 India is a country with the highest population. The healthcare system for such a population needs to be at its best. Healthcare is essential to society; there is nothing without good health and institutions to foster it. The health and welfare sector cannot keep up with the growing population and demand, leading to a high populace-filled hospital with short-staffed workers and helpers. On the other side of the spectrum is the hospitals kitted to a high populace with employees and helpers but not enough patients to satisfy it; this imbalance causes many problems and chaos.
-Hence this problem needs to be solved as soon as possible</p>
+Hence this problem needs to be solved as soon as possible
+
+Existing Systems
+
+Since most existing apps we know are direct patient and online doctor consultations.
+This app can offer a real-time platform that connects medical professionals with healthcare institutions, allowing hospitals and clinics to quickly find qualified doctors and other medical professionals to fill critical staffing gaps. This feature can help reduce patient wait times, improve the quality of care provided, and increase patient satisfaction.
+Ability to offer flexible work arrangements for medical professionals, such as short-term or part-time contracts, remote work options, or flexible scheduling. These features can be particularly attractive to medical professionals looking for more control over their work schedules or seeking opportunities to work in new and challenging environments.
+
+
+
+
+</p>
