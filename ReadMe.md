@@ -65,7 +65,6 @@ This app can offer a real-time platform that connects medical professionals with
 Ability to offer flexible work arrangements for medical professionals, such as short-term or part-time contracts, remote work options, or flexible scheduling. These features can be particularly attractive to medical professionals looking for more control over their work schedules or seeking opportunities to work in new and challenging environments.
 	
 **Architecture**
-
 	![flowdiagram](https://user-images.githubusercontent.com/115637102/228330684-745f8543-3519-40ae-a0a3-2d166bfc6fa0.jpeg)
 
 	
