@@ -4,7 +4,8 @@
 <p> 
   
   User Name: gdsc
-password: great
+  
+   password: great
 
 </p>
 
@@ -12,6 +13,10 @@ password: great
   Healthcare workers’ Login portal
 
 The healthcare workers can only send their details after they go through this login process.
+  
+  </p>
+  
+  <p>
   
   
   
@@ -26,9 +31,14 @@ The healthcare worker can input their data, such as their:
                                                                                    specialization
 when the user presses the "share data" button so that the data will be sent to the database
   
+  
+  
   ![healthcareworkers](https://user-images.githubusercontent.com/115637102/228327602-90ef1d3f-2086-48a7-8405-41819e6184a4.jpeg)
   
+  
+</p>
 
+<p>
  
   
   Healthcare worker sharing his data
