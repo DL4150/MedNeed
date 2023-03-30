@@ -3,9 +3,9 @@
 
 
 **Note:**
-<p>**MedNeed is divided into two parts:**</p>
-<p>**The Hospital side (can be seen in the hospital-side branch)**</p>
-<p>**The Health Worker side (can be seen in the healthworker-side branch**</p>
+**<p>MedNeed is divided into two parts:</p>**
+**<p>The Hospital side (can be seen in the hospital-side branch)</p>**
+**<p>The Health Worker side (can be seen in the healthworker-side branch</p>**
 
 
 
